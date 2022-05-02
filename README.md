@@ -2,7 +2,7 @@
 The switch adapted Boppin’ Beaver toy sings and dances and can be controlled with accessible switches that have a 3.5 mm jack. The beaver is a Fisher Price toy that teaches ABCs, 123, opposites, and simple games.
 
 ## More info at
-Makers Making Chnage Project Page
+Makers Making Change Project Page
 
 ## Getting Started
 1. How to build this device
