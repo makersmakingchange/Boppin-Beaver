@@ -7,8 +7,8 @@ The switch adapted Boppin’ Beaver toy sings and dances and can be controlled w
 ## Getting Started
 1. [How to build this device](/Documentation/Boppin'Beaver_Assembly_Guide.pdf) 
 2. [How to request a build of this device](
-3. [How to build this device for someone else]
-4. [How to improve the design of this device]
+3. [How to build this device for someone else](https://makersmakingchange.com/maker-wanted/)
+
 
 ## Files
 
@@ -22,26 +22,10 @@ The switch adapted Boppin’ Beaver toy sings and dances and can be controlled w
 | Maker Checklist      | 1.0     | [Maker Checklist](/Documentation/Boppin'Beaver_Maker_Checklist.pdf)                   |
 
 
-### Design Files 
-
- 
-
-### Build Files 
-
-### 3D Printing Files 
-
- 
 
 ## Attribution 
 
- 
-
-## Contributing 
-
-Todo: Add something about how to improve the design.  
-
- 
-
+ Documentation created by Neil Squire / Makers Making Change - based on instructional video by "Santa" Jerry Galland.
  
 
 ## License 
@@ -50,11 +34,6 @@ Everything needed or used to design, make, test, or prepare the <OpenAT Device
  
 
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the <OpenAT Device> are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0) 
-
- 
-
-Todo: Open-Source Hardware logo / declaration? 
-
  
 
  ## About Us 
